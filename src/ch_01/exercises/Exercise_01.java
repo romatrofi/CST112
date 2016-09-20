@@ -6,7 +6,7 @@
  * Created by Daniel Gutmann on 9/9/16.
  */
 
-public class exercise_01 {
+public class Exercise_01 {
     public static void main(String[] args) {
         System.out.println("Welcome to Java!");
         System.out.println("Welcome to Computer Science!");

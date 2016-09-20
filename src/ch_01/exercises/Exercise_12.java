@@ -7,7 +7,7 @@
  * Created by Daniel Gutmann on 9/13/16.
  */
 
-public class exercise_12 {
+public class Exercise_12 {
     public static void main(String[] args) {
         double miles = 24;
         double kilometers = miles * 1.6;

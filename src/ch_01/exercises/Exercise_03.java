@@ -9,7 +9,7 @@
  * Created by Daniel Gutmann on 9/9/16.
  */
 
-public class exercise_03 {
+public class Exercise_03 {
     public static void main(String[] args) {
     System.out.println("    J     A     V     V     A");
     System.out.println("    J    A A     V   V     A A");

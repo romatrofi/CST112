@@ -15,7 +15,7 @@
  * Created by Daniel Gutmann on 9/13/16.
  */
 
-public class exercise_11 {
+public class Exercise_11 {
     public static void main(String[] args) {
         int yearOnePop = 312032486;
 
@@ -31,7 +31,7 @@ public class exercise_11 {
             int deaths = (deathsInOneDay * 365) * year;
 
             int population = yearOnePop + (births + immigrants - deaths);
-            
+
             System.out.println("The population for year " + year + " is " + population + " with " + births + " births, " + immigrants + " immigrants, and " + deaths + " deaths since the first year");
         };
     }

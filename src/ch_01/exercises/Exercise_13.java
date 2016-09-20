@@ -14,7 +14,7 @@
  * Created by Daniel Gutmann on 9/13/16.
  */
 
-public class exercise_13 {
+public class Exercise_13 {
     public static void main(String[] args) {
         double a = 3.4;
         double b = 50.2;

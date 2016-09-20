@@ -9,7 +9,7 @@
  * Created by Daniel Gutmann on 9/9/16.
  */
 
- public class exercise_08 {
+ public class Exercise_08 {
    public static void main(String[] args) {
      double radius = 5.5;
 

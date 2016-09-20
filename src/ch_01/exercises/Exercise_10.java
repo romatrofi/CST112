@@ -7,7 +7,7 @@
  * Created by Daniel Gutmann on 9/13/16.
  */
 
-public class exercise_10 {
+public class Exercise_10 {
     public static void main(String[] args) {
         double kilometers = 14.0;
         double miles = kilometers / 1.4;
@@ -15,7 +15,7 @@ public class exercise_10 {
         double time = (45.5 * 60.0 + 30.0) / (60.0 * 60.0);
 
         double speed = miles / time;
-        
+
         System.out.println("The runner ran an average of " + speed + " miles per hour!");
 
     }

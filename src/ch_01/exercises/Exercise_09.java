@@ -8,14 +8,14 @@
  * Created by Daniel Gutmann on 9/9/16.
  */
 
-public class exercise_09 {
+public class Exercise_09 {
     public static void main(String[] args) {
         double width = 4.5;
         double height = 7.9;
 
         double perimeter = (width * 2) + (height * 2);
         double area = width * height;
-        
+
         System.out.println("The perimeter is: " + perimeter);
         System.out.println("The area is: " + area);
     }
